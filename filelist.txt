@@ -1,0 +1,10 @@
+total 32
+drwxrwxr-x 3 appdev appdev 4096 2012-02-18 03:08 abc
+-rw-rw-r-- 1 appdev appdev   46 2012-02-18 03:16 abc.txt
+-rw-rw-r-- 1 appdev appdev  184 2012-02-18 03:22 cyx.txt
+-rw-rw-r-- 1 appdev appdev    0 2012-02-18 03:33 filelist.txt
+-rw-rw-r-- 1 appdev appdev   20 2012-02-18 03:15 hello.txt
+-rw-rw-r-- 1 appdev appdev   26 2012-02-18 03:16 hie.txt
+-rw-rw-r-- 1 appdev appdev   30 2012-02-18 03:25 tyt.txt
+-rw-rw-r-- 1 appdev appdev   30 2012-02-18 03:26 uuu.txt
+-rw-rw-r-- 1 appdev appdev   92 2012-02-18 03:17 yyy.txt
