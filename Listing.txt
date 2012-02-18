@@ -1,5 +1,1 @@
-total 8
--rw-rw-r-- 1 appdev appdev   0 2012-02-18 15:06 debolina.txt
--rw-rw-r-- 1 appdev appdev 525 2012-02-18 03:33 filelist.txt
--rw-rw-r-- 1 appdev appdev   0 2012-02-18 15:19 Listing.txt
--rw-rw-r-- 1 appdev appdev  87 2012-02-18 14:59 SAMPLE
+Updated the file.
